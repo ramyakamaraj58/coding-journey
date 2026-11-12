@@ -1,13 +1,15 @@
-#My Coding Journey
 
-Hi! I'm learning programming.
+# My Coding Journey
 
-##Skills
--Python
--C++
--SQL
+Hi! I'm learning programming and improving my development skills.
 
-##Goals
--Improve problem-solving
--Learn DSA
--Build real-world projects
+## Skills
+- Python
+- C++
+- SQL
+
+## Goals
+- Improve problem-solving
+- Learn Data Structures and Algorithms
+- Build real-world projects
+- Contribute to open-source projects
