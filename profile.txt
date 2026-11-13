@@ -1,0 +1,3 @@
+print("Name: Ramya")
+print("Learning: Git and GitHub")
+print("Goal: Software Developer")
